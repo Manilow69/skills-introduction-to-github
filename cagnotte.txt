@@ -1,1 +1,3 @@
-Voyons si j'arrive à faire une nouvelle branche avec ce fichier modifié
+Voyons si j'arrive à faire une nouvelle branche avec ce fichier modifié.
+Je rajoute cette fois-ci une ligne supplémentaire.
+Pourquoi pas une troisième ligne ?
